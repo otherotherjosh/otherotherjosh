@@ -1,8 +1,4 @@
-- 👋 hand
-- 👀 eyes
-- 🌱 seed
-- 💞️ hearts
-- 📫 mail
+wee wee (i am french)
 
 <!---
 otherotherjosh/otherotherjosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
